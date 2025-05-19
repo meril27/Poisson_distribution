@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
 
-NMAE: MERIL GOLDLINA A
+NAME: MERIL GOLDLINA A
 
-REG.NO:212224040189
+REG.NO: 212224040189
 
 # Aim : 
 
