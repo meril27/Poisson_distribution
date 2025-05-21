@@ -12,7 +12,7 @@ To fit poisson distribution for the arrival of objects per minute from the feede
 
 Python and Visual component tool.
 
-# Theory:
+# Theory :
 
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
 
@@ -77,10 +77,12 @@ else:
 
 # Output : 
 
-![image](https://github.com/user-attachments/assets/c8976573-78b7-4a68-9cf1-8e53503123f7)
+
+![image](https://github.com/user-attachments/assets/87f02b77-6438-4a63-8758-d5750f09cf8b)
 
 
-# Results
+
+# Results : 
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
