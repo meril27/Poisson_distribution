@@ -1,8 +1,11 @@
+Developed by : MERIL GOLDLINA A
+
+Register number : 212224040189
+
+
+
+
 # Fitting Poisson  distribution
-
-DEVELOPED BY : MERIL GOLDLINA A
-
-REGISTER NUMBER : 212224040189
 
 # Aim : 
 
